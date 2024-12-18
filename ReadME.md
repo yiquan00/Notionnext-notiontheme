@@ -9,7 +9,7 @@
 - **自定义功能**：支持用户根据需求自定义导航链接和样式。
 ## 网站预览
 
-`https://notion2go.com`
+[访问 Notion2go](https://notion2go.com)
 
 ## 截图预览
 
